@@ -1,0 +1,11 @@
+create mysql db with name bookapi
+
+get /api/book
+
+post /api/book
+
+get /api/book/{bookId} //getting specific book with book id
+
+put /api/book/{bookId}
+
+delete /api/book/{bookId}
